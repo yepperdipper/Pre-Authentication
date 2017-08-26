@@ -5,6 +5,6 @@ All intertested, please see the attached word doc "Method for Password Auto" for
 
 The attached word doc is a general explanation of the pre-authentication app concept utilizing VRPC.  The idea came to me yesterday and it's obviously a good solid foundation to start building on.  To see an app like the concieved come to pass, and utilized by many as a common everyday thing is the end goal.
 
-SO join me on the first step of analyzing the decribed method for VRPC.  I want to hear your thoughts, ideas on where to begin, etc.  I'm searching for those who would take the lead as well as those passerby's who will contribute thier drop in the bucket.
+So, join me on the first step of analyzing the decribed method for VRPC.  I want to hear your thoughts, ideas on where to begin, etc.  I'm searching for those who would take the lead as well as those passerby's who will contribute thier drop in the bucket.
 
 Thank you for reading!
